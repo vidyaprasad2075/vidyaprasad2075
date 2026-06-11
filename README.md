@@ -9,7 +9,7 @@ Results-driven Data Analyst with hands-on experience in end-to-end data analysis
 
 ---
 
-## 📂 Featured Analytics Portfolios
+## 📂 Featured Analytics Projects
 
 ### 🏥Healthcare-Patient-Satisfaction-Analysis 
 https://github.com/vidyaprasad2075/Healthcare-Patient-Satisfaction-Analysis
